@@ -10,6 +10,7 @@ I love building things myself and presenting them afterwards.
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
+| 🏋️ **[FitCoach Website](https://github.com/mertdayi2934-bit/fitness-coaching-webseite)** | My first web project: a multilingual fitness coaching website (DE/EN/RU) with contact form, before/after slider, responsive navigation and SEO optimisation | HTML, CSS, JavaScript, GitHub Pages | ✅ live |
 | 🤖 **Jarvis** | My own AI assistant: to-dos, budgeting, learning helper and daily briefing in one app | C#, .NET, React, SQL, AI | 🛠️ planning |
 | 💈 **Barbershop Website** | Bilingual website (German/Turkish) for a barbershop | HTML, CSS, JavaScript | 📅 planned |
 | 💰 **Budget Tracker** | Track expenses, follow savings goals, overview with charts | C#, .NET, SQL | 📅 planned |
@@ -31,7 +32,7 @@ I love building things myself and presenting them afterwards.
 - **Frontend:** React, JavaScript, HTML, CSS
 - **Databases:** SQL Server, SQL
 - **Desktop:** WPF
-- **Tools:** Visual Studio, JetBrains Rider, Git
+- **Tools:** Visual Studio, JetBrains Rider, VS Code, Git, GitHub Pages
 
 ## 🌱 Currently Learning
 
@@ -48,6 +49,7 @@ German · Turkish · English
 Feel free to reach out via LinkedIn or email.
 
 ---
+
 ## Hallo, ich bin Mert 👋
 
 Angehender **Fachinformatiker für Anwendungsentwicklung** aus Augsburg.  
@@ -61,6 +63,7 @@ Mich begeistert es, Dinge selbst zu bauen und sie anschließend zu präsentieren
 
 | Projekt | Beschreibung | Technologien | Status |
 |---|---|---|---|
+| 🏋️ **[FitCoach-Webseite](https://github.com/mertdayi2934-bit/fitness-coaching-webseite)** | Mein erstes Webprojekt: eine mehrsprachige Fitness-Coaching-Webseite (DE/EN/RU) mit Kontaktformular, Vorher-Nachher-Slider, responsiver Navigation und SEO-Optimierung | HTML, CSS, JavaScript, GitHub Pages | ✅ online |
 | 🤖 **Jarvis** | Mein eigener KI-Assistent: To-dos, Budget, Lernhelfer und Tagesbriefing in einer App | C#, .NET, React, SQL, KI | 🛠️ in Planung |
 | 💈 **Barbershop-Website** | Zweisprachige Website (Deutsch/Türkisch) für einen Friseursalon | HTML, CSS, JavaScript | 📅 geplant |
 | 💰 **Budget-Tracker** | Ausgaben erfassen, Sparziele verfolgen, Übersicht mit Diagrammen | C#, .NET, SQL | 📅 geplant |
@@ -82,7 +85,7 @@ Mich begeistert es, Dinge selbst zu bauen und sie anschließend zu präsentieren
 - **Frontend:** React, JavaScript, HTML, CSS
 - **Datenbanken:** SQL Server, SQL
 - **Desktop:** WPF
-- **Tools:** Visual Studio, JetBrains Rider, Git
+- **Tools:** Visual Studio, JetBrains Rider, VS Code, Git, GitHub Pages
 
 ### 🌱 Was ich gerade lerne
 
