@@ -47,8 +47,7 @@ German · Turkish · English
 
 Feel free to reach out via LinkedIn or email.
 
-----------------------------------------------------------------------------------
-
+---
 ## Hallo, ich bin Mert 👋
 
 Angehender **Fachinformatiker für Anwendungsentwicklung** aus Augsburg.  
